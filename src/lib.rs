@@ -198,4 +198,3 @@ impl BitcoinSerialize for LegacyTransaction {
         result
     }
 }
-//do
